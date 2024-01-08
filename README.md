@@ -18,4 +18,4 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando criar 
 
 ### Dashboard Vendas por Produto:
 
-![Gif que exemplifica o funcionando do Dashboard Financeiro](https://i.imgur.com/WaoobwY.gif)
+![Gif que exemplifica o funcionando do Dashboard Financeiro](https://i.imgur.com/XgVC106.gif)
