@@ -4,6 +4,6 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando criar 
 
 - [Dashboard de Vendas](https://github.com/rdzw/POWER-BI-ANALYTICS/tree/main/Dashboard%20Vendas)
 
-### Dashboard Financeiro
+### Dashboard Clientes:
 
 ![Gif que exemplifica o funcionando do Dashboard Financeiro](https://i.imgur.com/kzO2buz.gif)
