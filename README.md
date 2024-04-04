@@ -5,6 +5,19 @@ Power BI é uma plataforma de business intelligence (BI) desenvolvida pela Micro
 
 ![App Screenshot](https://i.imgur.com/0XisehE.gif)
 
+## Relatorio Power BI Vendas Exemplos
+- Vendas por produtos:
+
+![App Screenshot](https://i.imgur.com/XgVC106.gif)
+
+- Top 5 produtos:
+
+![App Screenshot](https://i.imgur.com/75UrR7W.gif)
+
+- Top vendedores e piores:
+
+![App Screenshot](https://i.imgur.com/pt0IBQN.gif)
+
 ## Aprendizados
 
 O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
